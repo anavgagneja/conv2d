@@ -1,4 +1,5 @@
-# agagneja_HW01 (Deep Learning / Medical Imaging - BME49500 at Purdue University)
+# agagneja_HW01 
+## (Deep Learning / Medical Imaging - BME49500 at Purdue University)
 
 Uses following API:
 ```
