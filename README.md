@@ -1,4 +1,12 @@
-# agagneja_HW01
+# agagneja_HW01 (Deep Learning / Medical Imaging - BME49500 at Purdue University)
+
+Uses following API:
+```
+Python:
+Conv2D(in_channel, o_channel, kernel_size, stride, mode)
+[int, 3D FloatTensor] Conv2D.forward(input_image)
+Conv2D is a class and it has a forward function as one of its method (apart from its constructor).
+```
 
 - Did not use zero padding so completed images are somewhat smaller. 
 - Saving each output image to workspace directory as:
